@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Daire dilmi ve alanı bulma eklendi">
-      <change afterPath="$PROJECT_DIR$/VucutKitle/VucutKitle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VucutKitle/src/VucutKitleHesaplama.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Vücut Kitle İndeksi">
+      <change afterPath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ManavKasa/src/ManavKasa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VucutKitle/VucutKitleHesaplama.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VucutKitle/VucutKitleHesaplama.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.VucutKitleHesaplama">
+  <component name="RunManager" selected="Application.ManavKasa">
     <configuration name="AlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlanHesaplama" />
       <module name="UcgenAlanHesaplama" />
@@ -55,9 +56,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KdvHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KdvHesaplama" />
-      <module name="KdvHesaplama" />
+    <configuration name="ManavKasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManavKasa" />
+      <module name="ManavKasa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManavKasa" />
         <item itemvalue="Application.VucutKitleHesaplama" />
         <item itemvalue="Application.DaireninAlanı" />
         <item itemvalue="Application.TaksimetreProgramı" />
         <item itemvalue="Application.AlanHesaplama" />
-        <item itemvalue="Application.KdvHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="3849000" />
+      <workItem from="1629061354568" duration="4394000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629064864632</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Vücut Kitle İndeksi">
+      <created>1629065248265</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1629065248265</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +228,7 @@
     <MESSAGE value="Üçgen Alan hesaplama eklendi" />
     <MESSAGE value="Taksimetre Eklendi" />
     <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daire dilmi ve alanı bulma eklendi" />
+    <MESSAGE value="Vücut Kitle İndeksi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vücut Kitle İndeksi" />
   </component>
 </project>
