@@ -13,6 +13,6 @@ public class KdvHesaplama {
         boolean say = fiyat >1000;
         fiyatKdv = say ? (fiyat += fiyat * kdv1) : (fiyat += fiyat * kdv2);
 
-        System.out.println("fiyat : " +fiyatKdv);
+        System.out.println("fiyat : " +fiyatKdv);s
     }
 }
