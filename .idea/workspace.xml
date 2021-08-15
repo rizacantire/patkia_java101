@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Not hesaplama uygulaması" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Kdv Hesaplama Eklendi">
+      <change beforePath="$PROJECT_DIR$/KdvHesaplama/src/KdvHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/KdvHesaplama/src/KdvHesaplama.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="1814000" />
+      <workItem from="1629061354568" duration="1945000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -102,7 +104,35 @@
       <option name="project" value="LOCAL" />
       <updated>1629063125593</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Not hesaplama uygulaması">
+      <created>1629063188934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629063188935</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Not hesaplama uygulaması">
+      <created>1629063211732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629063211732</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1629063260730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629063260730</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Kdv Hesaplama Eklendi">
+      <created>1629063300066</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629063300066</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,8 +151,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2. proje" />
-    <MESSAGE value="Kdv Hesaplama Eklendi" />
+    <MESSAGE value="Kdv Hesaplama Ekelndi" />
     <MESSAGE value="Not hesaplama uygulaması" />
-    <option name="LAST_COMMIT_MESSAGE" value="Not hesaplama uygulaması" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Kdv Hesaplama Eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kdv Hesaplama Eklendi" />
   </component>
 </project>
