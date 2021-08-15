@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="2. proje">
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Not hesaplama uygulaması">
+      <change afterPath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KdvHesaplama/src/KdvHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ders2/ders2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notHesaplama/src/NotHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/notHesaplama/src/NotHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/notHesaplama/NotHesaplama.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -38,7 +40,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.KdvHesaplama">
+    <configuration name="KdvHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KdvHesaplama" />
+      <module name="KdvHesaplama" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NotHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NotHesaplama" />
       <module name="notHesaplama" />
@@ -48,6 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KdvHesaplama" />
         <item itemvalue="Application.NotHesaplama" />
       </list>
     </recent_temporary>
@@ -60,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="920000" />
+      <workItem from="1629061354568" duration="1723000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -76,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629061730801</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Not hesaplama uygulaması">
+      <created>1629062333936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629062333936</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2. proje" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. proje" />
+    <MESSAGE value="Not hesaplama uygulaması" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not hesaplama uygulaması" />
   </component>
 </project>
