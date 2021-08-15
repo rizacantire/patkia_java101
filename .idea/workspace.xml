@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Taksimetre Eklendi">
-      <change afterPath="$PROJECT_DIR$/Dairenin Alanı/Dairenin Alanı.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dairenin Alanı/src/DaireninAlanı.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Daire dilmi ve alanı bulma eklendi">
+      <change afterPath="$PROJECT_DIR$/VucutKitle/VucutKitle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VucutKitle/src/VucutKitleHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DaireninAlanı">
+  <component name="RunManager" selected="Application.VucutKitleHesaplama">
     <configuration name="AlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlanHesaplama" />
       <module name="UcgenAlanHesaplama" />
@@ -62,13 +62,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotHesaplama" />
-      <module name="notHesaplama" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TaksimetreProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaksimetreProgramı" />
       <module name="TaksimetreProgramı" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VucutKitleHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VucutKitleHesaplama" />
+      <module name="VucutKitle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VucutKitleHesaplama" />
         <item itemvalue="Application.DaireninAlanı" />
         <item itemvalue="Application.TaksimetreProgramı" />
         <item itemvalue="Application.AlanHesaplama" />
         <item itemvalue="Application.KdvHesaplama" />
-        <item itemvalue="Application.NotHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="3436000" />
+      <workItem from="1629061354568" duration="3849000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629064470675</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Daire dilmi ve alanı bulma eklendi">
+      <created>1629064864632</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1629064864632</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +219,7 @@
     <MESSAGE value="Kdv Hesaplama Eklendi" />
     <MESSAGE value="Üçgen Alan hesaplama eklendi" />
     <MESSAGE value="Taksimetre Eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Taksimetre Eklendi" />
+    <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daire dilmi ve alanı bulma eklendi" />
   </component>
 </project>
