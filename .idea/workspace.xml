@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Manav Programı">
-      <change afterPath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HesapMakinesi/src/HesapMakinesi.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Hesap Makinesi">
+      <change afterPath="$PROJECT_DIR$/GirisEkrani/src/GirisEkrani.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,6 +22,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1wmQbCTePwHElBj7Xdg9OItWpbR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,10 +47,10 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HesapMakinesi">
-    <configuration name="DaireninAlanı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DaireninAlanı" />
-      <module name="Dairenin Alanı" />
+  <component name="RunManager" selected="Application.GirisEkrani">
+    <configuration name="GirisEkrani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GirisEkrani" />
+      <module name="GirisEkrani" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GirisEkrani" />
         <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.hakkerran" />
         <item itemvalue="Application.ManavKasa" />
         <item itemvalue="Application.VucutKitleHesaplama" />
-        <item itemvalue="Application.DaireninAlanı" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="7548000" />
+      <workItem from="1629061354568" duration="8271000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -208,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629065811056</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Hesap Makinesi">
+      <created>1629068974199</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1629068974199</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +250,7 @@
     <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
     <MESSAGE value="Vücut Kitle İndeksi" />
     <MESSAGE value="Manav Programı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manav Programı" />
+    <MESSAGE value="Hesap Makinesi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hesap Makinesi" />
   </component>
 </project>
