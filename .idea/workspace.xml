@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Kdv Hesaplama Eklendi">
-      <change afterPath="$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UcgenAlanHesaplama/src/AlanHesaplama.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Üçgen Alan hesaplama eklendi">
+      <change afterPath="$PROJECT_DIR$/TaksimetreProgramı/TaksimetreProgramı.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaksimetreProgramı/src/TaksimetreProgramı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,7 +40,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AlanHesaplama">
+  <component name="RunManager" selected="Application.TaksimetreProgramı">
     <configuration name="AlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlanHesaplama" />
       <module name="UcgenAlanHesaplama" />
@@ -62,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaksimetreProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaksimetreProgramı" />
+      <module name="TaksimetreProgramı" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaksimetreProgramı" />
         <item itemvalue="Application.AlanHesaplama" />
         <item itemvalue="Application.KdvHesaplama" />
         <item itemvalue="Application.NotHesaplama" />
@@ -78,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="2496000" />
+      <workItem from="1629061354568" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -150,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629063320695</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Üçgen Alan hesaplama eklendi">
+      <created>1629063958361</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629063958361</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +188,7 @@
     <MESSAGE value="Not hesaplama uygulaması" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Kdv Hesaplama Eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kdv Hesaplama Eklendi" />
+    <MESSAGE value="Üçgen Alan hesaplama eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Üçgen Alan hesaplama eklendi" />
   </component>
 </project>
