@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Üçgen Alan hesaplama eklendi">
-      <change afterPath="$PROJECT_DIR$/TaksimetreProgramı/TaksimetreProgramı.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaksimetreProgramı/src/TaksimetreProgramı.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Taksimetre Eklendi">
+      <change afterPath="$PROJECT_DIR$/Dairenin Alanı/Dairenin Alanı.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dairenin Alanı/src/DaireninAlanı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,10 +40,17 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TaksimetreProgramı">
+  <component name="RunManager" selected="Application.DaireninAlanı">
     <configuration name="AlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlanHesaplama" />
       <module name="UcgenAlanHesaplama" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaireninAlanı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireninAlanı" />
+      <module name="Dairenin Alanı" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaireninAlanı" />
         <item itemvalue="Application.TaksimetreProgramı" />
         <item itemvalue="Application.AlanHesaplama" />
         <item itemvalue="Application.KdvHesaplama" />
@@ -86,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="3069000" />
+      <workItem from="1629061354568" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -165,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629063958361</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Taksimetre Eklendi">
+      <created>1629064460847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629064460847</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Taksimetre Eklendi">
+      <created>1629064470675</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629064470675</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +211,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Kdv Hesaplama Eklendi" />
     <MESSAGE value="Üçgen Alan hesaplama eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Üçgen Alan hesaplama eklendi" />
+    <MESSAGE value="Taksimetre Eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taksimetre Eklendi" />
   </component>
 </project>
