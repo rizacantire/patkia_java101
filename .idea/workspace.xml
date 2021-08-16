@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Sıralama eklendi">
-      <change afterPath="$PROJECT_DIR$/Siralama/Siralama.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Siralama/src/Siralama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Siralama/Siralama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BurcBulma/src/BurcBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,6 +37,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -51,7 +50,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Siralama">
+  <component name="RunManager" selected="Application.BurcBulma">
+    <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BurcBulma" />
+      <module name="BurcBulma" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EtkinlikOner" />
       <module name="EtkinlikOner" />
@@ -80,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hakkerran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hakkerran" />
-      <module name="hackerrankChallenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.Siralama" />
         <item itemvalue="Application.EtkinlikOner" />
         <item itemvalue="Application.GirisEkrani" />
         <item itemvalue="Application.HesapMakinesi" />
-        <item itemvalue="Application.hakkerran" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
       <workItem from="1629061354568" duration="9369000" />
+      <workItem from="1629131217877" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629130785034</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Sıralama eklendi">
+      <created>1629131228365</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1629131228365</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +270,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2. proje" />
