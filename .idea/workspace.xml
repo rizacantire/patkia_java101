@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Giriş Ekranı">
-      <change afterPath="$PROJECT_DIR$/SinifiGecme/src/SinifiGecme.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Sınıfı Geçme Eklendi">
+      <change afterPath="$PROJECT_DIR$/EtkinlikOner/EtkinlikOner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EtkinlikOner/src/EtkinlikOner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1wmQbCTePwHElBj7Xdg9OItWpbR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +50,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.GirisEkrani">
+  <component name="RunManager" selected="Application.EtkinlikOner">
+    <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EtkinlikOner" />
+      <module name="EtkinlikOner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GirisEkrani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GirisEkrani" />
       <module name="GirisEkrani" />
@@ -67,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VucutKitleHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VucutKitleHesaplama" />
-      <module name="VucutKitle" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hakkerran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hakkerran" />
       <module name="hackerrankChallenge" />
@@ -83,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EtkinlikOner" />
         <item itemvalue="Application.GirisEkrani" />
         <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.hakkerran" />
         <item itemvalue="Application.ManavKasa" />
-        <item itemvalue="Application.VucutKitleHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
-      <workItem from="1629061354568" duration="8367000" />
+      <workItem from="1629061354568" duration="8921000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -227,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629069722782</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Sınıfı Geçme Eklendi">
+      <created>1629130213529</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1629130213529</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +269,7 @@
     <MESSAGE value="Manav Programı" />
     <MESSAGE value="Hesap Makinesi" />
     <MESSAGE value="Giriş Ekranı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Giriş Ekranı" />
+    <MESSAGE value="Sınıfı Geçme Eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sınıfı Geçme Eklendi" />
   </component>
 </project>
