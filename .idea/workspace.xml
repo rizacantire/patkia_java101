@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Zodyak">
-      <change afterPath="$PROJECT_DIR$/ArtikYil/src/ArtikYil.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Artık Yıl">
+      <change afterPath="$PROJECT_DIR$/TekCift/src/TekCift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArtikYil">
+  <component name="RunManager" selected="Application.test">
     <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtikYil" />
       <module name="ArtikYil" />
@@ -77,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Siralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Siralama" />
-      <module name="Siralama" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zodyak" />
       <module name="Zodyak" />
@@ -91,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.ArtikYil" />
         <item itemvalue="Application.Zodyak" />
         <item itemvalue="Application.BiletHesap" />
         <item itemvalue="Application.BurcBulma" />
-        <item itemvalue="Application.Siralama" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629188870312</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Artık Yıl">
+      <created>1629189296310</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1629189296310</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +319,7 @@
     <MESSAGE value="Sıralama eklendi" />
     <MESSAGE value="Bilet Sistemi" />
     <MESSAGE value="Zodyak" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zodyak" />
+    <MESSAGE value="Artık Yıl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Artık Yıl" />
   </component>
 </project>
