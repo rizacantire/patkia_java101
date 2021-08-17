@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Sıralama eklendi">
-      <change afterPath="$PROJECT_DIR$/BiletHesap/src/BiletHesap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patika.iml" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Bilet Sistemi">
+      <change afterPath="$PROJECT_DIR$/Zodyak/Zodyak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zodyak/src/Zodyak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BiletHesap/BiletHesap.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +39,8 @@
     <option name="flattenModules" value="true" />
     <option name="flattenPackages" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -56,7 +53,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BiletHesap">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Zodyak">
     <configuration name="BiletHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BiletHesap" />
       <module name="BiletHesap" />
@@ -78,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GirisEkrani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GirisEkrani" />
-      <module name="GirisEkrani" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Siralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Siralama" />
       <module name="Siralama" />
@@ -92,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zodyak" />
+      <module name="Zodyak" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zodyak" />
         <item itemvalue="Application.BiletHesap" />
         <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.Siralama" />
         <item itemvalue="Application.EtkinlikOner" />
-        <item itemvalue="Application.GirisEkrani" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629131228365</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Bilet Sistemi">
+      <created>1629183702320</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1629183702320</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +304,7 @@
     <MESSAGE value="Etkinlik Öner" />
     <MESSAGE value="Sıralama" />
     <MESSAGE value="Sıralama eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sıralama eklendi" />
+    <MESSAGE value="Bilet Sistemi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bilet Sistemi" />
   </component>
 </project>
