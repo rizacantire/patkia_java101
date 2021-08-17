@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Bilet Sistemi">
-      <change afterPath="$PROJECT_DIR$/Zodyak/Zodyak.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zodyak/src/Zodyak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Zodyak">
+      <change afterPath="$PROJECT_DIR$/ArtikYil/src/ArtikYil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,14 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zodyak">
+  <component name="RunManager" selected="Application.ArtikYil">
+    <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArtikYil" />
+      <module name="ArtikYil" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BiletHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BiletHesap" />
       <module name="BiletHesap" />
@@ -69,13 +73,6 @@
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcBulma" />
       <module name="BurcBulma" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EtkinlikOner" />
-      <module name="EtkinlikOner" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArtikYil" />
         <item itemvalue="Application.Zodyak" />
         <item itemvalue="Application.BiletHesap" />
         <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.Siralama" />
-        <item itemvalue="Application.EtkinlikOner" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629183702320</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Zodyak">
+      <created>1629188870312</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1629188870312</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +309,7 @@
     <MESSAGE value="Sıralama" />
     <MESSAGE value="Sıralama eklendi" />
     <MESSAGE value="Bilet Sistemi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bilet Sistemi" />
+    <MESSAGE value="Zodyak" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zodyak" />
   </component>
 </project>
