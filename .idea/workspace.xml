@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Artık Yıl">
-      <change afterPath="$PROJECT_DIR$/TekCift/src/TekCift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/test.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Çitf 4">
+      <change afterPath="$PROJECT_DIR$/CiftDortKatlariToplami/CiftDortKatlariToplami.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -282,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629189296310</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Tek Çift">
+      <created>1629196816364</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1629196816364</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Çitf 4">
+      <created>1629197164417</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1629197164417</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +334,8 @@
     <MESSAGE value="Bilet Sistemi" />
     <MESSAGE value="Zodyak" />
     <MESSAGE value="Artık Yıl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Artık Yıl" />
+    <MESSAGE value="Tek Çift" />
+    <MESSAGE value="Çitf 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Çitf 4" />
   </component>
 </project>
