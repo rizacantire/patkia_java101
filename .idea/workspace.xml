@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Sıralama eklendi">
-      <change afterPath="$PROJECT_DIR$/BurcBulma/src/BurcBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiletHesap/src/BiletHesap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patika.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Burc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BiletHesap/BiletHesap.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +38,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -50,7 +56,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BurcBulma">
+  <component name="RunManager" selected="Application.BiletHesap">
+    <configuration name="BiletHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BiletHesap" />
+      <module name="BiletHesap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcBulma" />
       <module name="BurcBulma" />
@@ -72,13 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HesapMakinesi" />
-      <module name="HesapMakinesi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Siralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Siralama" />
       <module name="Siralama" />
@@ -88,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BiletHesap" />
         <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.Siralama" />
         <item itemvalue="Application.EtkinlikOner" />
         <item itemvalue="Application.GirisEkrani" />
-        <item itemvalue="Application.HesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
