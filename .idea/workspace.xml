@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Usluler">
-      <change afterPath="$PROJECT_DIR$/3-Basamak/3-Basamak.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-Basamak/src/Basamak.java" afterDir="false" />
+    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Basamak">
+      <change afterPath="$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Harmonik/src/Harmonik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,10 +50,17 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Basamak">
+  <component name="RunManager" selected="Application.Harmonik">
     <configuration name="Basamak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basamak" />
       <module name="3-Basamak" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Harmonik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Harmonik" />
+      <module name="4-Harmonik" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Harmonik" />
         <item itemvalue="Application.Basamak" />
         <item itemvalue="Application.UsluSayi" />
         <item itemvalue="Application.KombinasyonHesap" />
         <item itemvalue="Application.IkiKuvvet" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629582384199</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Basamak">
+      <created>1629583279082</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1629583279082</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,6 +321,7 @@
     <MESSAGE value="Burclar" />
     <MESSAGE value="Kombinasyon" />
     <MESSAGE value="Usluler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usluler" />
+    <MESSAGE value="Basamak" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basamak" />
   </component>
 </project>
