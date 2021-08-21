@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Burclar">
-      <change afterPath="$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IkiKuvvet/src/IkiKuvvet.java" afterDir="false" />
+    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Burclar">
+      <change afterPath="$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-Kombinasyon/src/KombinasyonHesap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,7 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -51,7 +50,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.IkiKuvvet">
+  <component name="RunManager" selected="Application.KombinasyonHesap">
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcBulma" />
       <module name="BurcBulma" />
@@ -59,16 +58,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EtkinlikOner" />
-      <module name="EtkinlikOner" />
+    <configuration name="IkiKuvvet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkiKuvvet" />
+      <module name="IkiKuvvet" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IkiKuvvet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IkiKuvvet" />
-      <module name="IkiKuvvet" />
+    <configuration name="KombinasyonHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KombinasyonHesap" />
+      <module name="1-Kombinasyon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KombinasyonHesap" />
         <item itemvalue="Application.IkiKuvvet" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.Siralama" />
-        <item itemvalue="Application.EtkinlikOner" />
       </list>
     </recent_temporary>
   </component>
