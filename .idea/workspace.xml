@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Burclar">
-      <change afterPath="$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-Kombinasyon/src/KombinasyonHesap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Kombinasyon">
+      <change afterPath="$PROJECT_DIR$/2-Uslusayi/src/UsluSayi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.KombinasyonHesap">
+  <component name="RunManager" selected="Application.UsluSayi">
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcBulma" />
       <module name="BurcBulma" />
@@ -72,9 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Siralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Siralama" />
-      <module name="Siralama" />
+    <configuration name="UsluSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsluSayi" />
+      <module name="2-Uslusayi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsluSayi" />
         <item itemvalue="Application.KombinasyonHesap" />
         <item itemvalue="Application.IkiKuvvet" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.BurcBulma" />
-        <item itemvalue="Application.Siralama" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629131567528</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Kombinasyon">
+      <created>1629581957442</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1629581957442</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +302,7 @@
     <MESSAGE value="Sıralama" />
     <MESSAGE value="Sıralama eklendi" />
     <MESSAGE value="Burclar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Burclar" />
+    <MESSAGE value="Kombinasyon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kombinasyon" />
   </component>
 </project>
