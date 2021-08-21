@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Çitf 4">
-      <change afterPath="$PROJECT_DIR$/SayiKatlari/src/SayiKatlari.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Burclar">
+      <change afterPath="$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IkiKuvvet/src/IkiKuvvet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +36,8 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
-    <option name="foldersAlwaysOnTop" value="false" />
-    <option name="showMembers" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -51,26 +51,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArtikYil" />
-      <module name="ArtikYil" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BiletHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BiletHesap" />
-      <module name="BiletHesap" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IkiKuvvet">
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BurcBulma" />
       <module name="BurcBulma" />
@@ -78,27 +59,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zodyak" />
-      <module name="Zodyak" />
+    <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EtkinlikOner" />
+      <module name="EtkinlikOner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IkiKuvvet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IkiKuvvet" />
+      <module name="IkiKuvvet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Siralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Siralama" />
+      <module name="Siralama" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Test" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IkiKuvvet" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.ArtikYil" />
-        <item itemvalue="Application.Zodyak" />
-        <item itemvalue="Application.BiletHesap" />
         <item itemvalue="Application.BurcBulma" />
+        <item itemvalue="Application.Siralama" />
+        <item itemvalue="Application.EtkinlikOner" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
       <workItem from="1629061354568" duration="9369000" />
-      <workItem from="1629131217877" duration="333000" />
+      <workItem from="1629131217877" duration="4205000" />
+      <workItem from="1629580818606" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -260,49 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629131228365</updated>
     </task>
-    <task id="LOCAL-00022" summary="Bilet Sistemi">
-      <created>1629183702320</created>
+    <task id="LOCAL-00022" summary="Burclar">
+      <created>1629131567528</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1629183702320</updated>
+      <updated>1629131567528</updated>
     </task>
-    <task id="LOCAL-00023" summary="Zodyak">
-      <created>1629188870312</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1629188870312</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Artık Yıl">
-      <created>1629189296310</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1629189296310</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Tek Çift">
-      <created>1629196816364</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1629196816364</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Çitf 4">
-      <created>1629197164417</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1629197164417</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Çitf 4">
-      <created>1629197406589</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1629197406589</updated>
-    </task>
-    <option name="localTasksCounter" value="28" />
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,11 +298,7 @@
     <MESSAGE value="Etkinlik Öner" />
     <MESSAGE value="Sıralama" />
     <MESSAGE value="Sıralama eklendi" />
-    <MESSAGE value="Bilet Sistemi" />
-    <MESSAGE value="Zodyak" />
-    <MESSAGE value="Artık Yıl" />
-    <MESSAGE value="Tek Çift" />
-    <MESSAGE value="Çitf 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Çitf 4" />
+    <MESSAGE value="Burclar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Burclar" />
   </component>
 </project>
