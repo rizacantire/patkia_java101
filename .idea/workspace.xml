@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Sıralama Tekrar">
-      <change afterPath="$PROJECT_DIR$/Diziler/6-DiziTekrar/6-DiziTekrar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diziler/6-DiziTekrar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diziler/7-Transpose/7-Transpose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diziler/7-Transpose/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -50,14 +50,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Harmonik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Harmonik" />
-      <module name="4-Harmonik" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="3-BHarfi" />
@@ -79,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="7-Transpose" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="2-MaxMin" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Harmonik" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <workItem from="1629061354568" duration="9369000" />
       <workItem from="1629131217877" duration="4205000" />
       <workItem from="1629580818606" duration="382000" />
-      <workItem from="1629658302697" duration="5810000" />
+      <workItem from="1629658302697" duration="6791000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -326,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629662838004</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Sıralama Tekrar">
+      <created>1629664175841</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1629664175841</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
