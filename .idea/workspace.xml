@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="B">
-      <change afterPath="$PROJECT_DIR$/Diziler/4-DiziTekrar/src/Main.java" afterDir="false" />
+    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Dizi Tekrar">
+      <change afterPath="$PROJECT_DIR$/Diziler/4-DiziTekrar/4-DiziTekrar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diziler/5-DiziSiralama/5-DiziSiralama.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diziler/5-DiziSiralama/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Basamak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basamak" />
       <module name="3-Basamak" />
@@ -69,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="5-DiziSiralama" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="2-MaxMin" />
@@ -76,20 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsluSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsluSayi" />
-      <module name="2-Uslusayi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Harmonik" />
         <item itemvalue="Application.Basamak" />
-        <item itemvalue="Application.UsluSayi" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +108,7 @@
       <workItem from="1629061354568" duration="9369000" />
       <workItem from="1629131217877" duration="4205000" />
       <workItem from="1629580818606" duration="382000" />
-      <workItem from="1629658302697" duration="3108000" />
+      <workItem from="1629658302697" duration="4485000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -309,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629660882335</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Dizi Tekrar">
+      <created>1629661454418</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1629661454418</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +361,7 @@
     <MESSAGE value="Basamak" />
     <MESSAGE value="Max" />
     <MESSAGE value="B" />
-    <option name="LAST_COMMIT_MESSAGE" value="B" />
+    <MESSAGE value="Dizi Tekrar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dizi Tekrar" />
   </component>
 </project>
