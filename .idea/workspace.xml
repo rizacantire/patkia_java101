@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Ebob Ekok">
-      <change afterPath="$PROJECT_DIR$/8-MinMax/8-MinMax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-MinMax/src/MinMax.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Max Min">
+      <change afterPath="$PROJECT_DIR$/9-MukemmelSayi/9-MukemmelSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-MukemmelSayi/src/Mukemmel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,7 +58,7 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinMax">
+  <component name="RunManager" selected="Application.Mukemmel">
     <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtikYil" />
       <module name="ArtikYil" />
@@ -80,9 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zodyak" />
-      <module name="Zodyak" />
+    <configuration name="Mukemmel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mukemmel" />
+      <module name="9-MukemmelSayi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mukemmel" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.ArtikYil" />
-        <item itemvalue="Application.Zodyak" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629621342089</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Max Min">
+      <created>1629621868227</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1629621868227</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +359,7 @@
     <MESSAGE value="Tek Çift" />
     <MESSAGE value="Çitf 4" />
     <MESSAGE value="Ebob Ekok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ebob Ekok" />
+    <MESSAGE value="Max Min" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max Min" />
   </component>
 </project>
