@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="OOP - Boks">
-      <change afterPath="$PROJECT_DIR$/OOP/2-Boks/2-Boks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/3-Maas/3-Maas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/3-Maas/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/3-Maas/src/Main.java" afterDir="false" />
+    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Max">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diziler/2-MaxMin/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,7 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -38,9 +35,8 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
-    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -54,70 +50,64 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101\OOP" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="2-Boks" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Basamak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basamak" />
+      <module name="3-Basamak" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="3-Maas" />
+    <configuration name="Harmonik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Harmonik" />
+      <module name="4-Harmonik" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KombinasyonHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KombinasyonHesap" />
+      <module name="1-Kombinasyon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="1-OBS" />
+      <module name="2-MaxMin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveAsal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveAsal" />
-      <module name="16-RecursiveAsal" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveDesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveDesen" />
-      <module name="17-RecursiveDesen" />
+    <configuration name="UsluSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsluSayi" />
+      <module name="2-Uslusayi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RecursiveDesen" />
-        <item itemvalue="Application.RecursiveAsal" />
+        <item itemvalue="Application.Harmonik" />
+        <item itemvalue="Application.Basamak" />
+        <item itemvalue="Application.UsluSayi" />
+        <item itemvalue="Application.KombinasyonHesap" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="" />
+      <changelist id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Basamak" />
       <created>1629061353149</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629061353149</updated>
       <workItem from="1629061354568" duration="9369000" />
-      <workItem from="1629131217877" duration="333000" />
+      <workItem from="1629131217877" duration="4205000" />
+      <workItem from="1629580818606" duration="382000" />
+      <workItem from="1629658302697" duration="283000" />
     </task>
     <task id="LOCAL-00001" summary="2. proje">
       <created>1629061715504</created>
@@ -266,147 +256,35 @@
       <option name="project" value="LOCAL" />
       <updated>1629131228365</updated>
     </task>
-    <task id="LOCAL-00022" summary="Bilet Sistemi">
-      <created>1629183702320</created>
+    <task id="LOCAL-00022" summary="Burclar">
+      <created>1629131567528</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1629183702320</updated>
+      <updated>1629131567528</updated>
     </task>
-    <task id="LOCAL-00023" summary="Zodyak">
-      <created>1629188870312</created>
+    <task id="LOCAL-00023" summary="Kombinasyon">
+      <created>1629581957442</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1629188870312</updated>
+      <updated>1629581957442</updated>
     </task>
-    <task id="LOCAL-00024" summary="Artık Yıl">
-      <created>1629189296310</created>
+    <task id="LOCAL-00024" summary="Usluler">
+      <created>1629582384199</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1629189296310</updated>
+      <updated>1629582384199</updated>
     </task>
-    <task id="LOCAL-00025" summary="Tek Çift">
-      <created>1629196816364</created>
+    <task id="LOCAL-00025" summary="Basamak">
+      <created>1629583279082</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1629196816364</updated>
+      <updated>1629583279082</updated>
     </task>
-    <task id="LOCAL-00026" summary="Çitf 4">
-      <created>1629197164417</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1629197164417</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Çitf 4">
-      <created>1629197406589</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1629197406589</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Ebob Ekok">
-      <created>1629621342089</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1629621342089</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Max Min">
-      <created>1629621868227</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1629621868227</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Mukemmel Sayı">
-      <created>1629622047380</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1629622047380</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Ters Üçgen">
-      <created>1629622152250</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1629622152250</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Asal Sayılar">
-      <created>1629622400133</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1629622400133</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Fibonacci">
-      <created>1629625473828</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1629625473828</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Fibonacci">
-      <created>1629625506684</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1629625506684</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Palindrom">
-      <created>1629626721108</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1629626721108</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Hesap">
-      <created>1629626884193</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1629626884193</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Us Recursive">
-      <created>1629627891489</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1629627891490</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Asal sayılar Recursive">
-      <created>1629631386893</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1629631386893</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Desen Metot">
-      <created>1629633072104</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1629633072104</updated>
-    </task>
-    <task id="LOCAL-00040" summary="OOP - OBS">
-      <created>1629634498964</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1629634498964</updated>
-    </task>
-    <task id="LOCAL-00041" summary="OOP - Boks">
-      <created>1629636456125</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1629636456125</updated>
-    </task>
-    <option name="localTasksCounter" value="42" />
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,6 +303,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="2. proje" />
+    <MESSAGE value="Kdv Hesaplama Ekelndi" />
+    <MESSAGE value="Not hesaplama uygulaması" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Kdv Hesaplama Eklendi" />
+    <MESSAGE value="Üçgen Alan hesaplama eklendi" />
+    <MESSAGE value="Taksimetre Eklendi" />
+    <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
+    <MESSAGE value="Vücut Kitle İndeksi" />
     <MESSAGE value="Manav Programı" />
     <MESSAGE value="Hesap Makinesi" />
     <MESSAGE value="Giriş Ekranı" />
@@ -432,24 +319,11 @@
     <MESSAGE value="Etkinlik Öner" />
     <MESSAGE value="Sıralama" />
     <MESSAGE value="Sıralama eklendi" />
-    <MESSAGE value="Bilet Sistemi" />
-    <MESSAGE value="Zodyak" />
-    <MESSAGE value="Artık Yıl" />
-    <MESSAGE value="Tek Çift" />
-    <MESSAGE value="Çitf 4" />
-    <MESSAGE value="Ebob Ekok" />
-    <MESSAGE value="Max Min" />
-    <MESSAGE value="Mukemmel Sayı" />
-    <MESSAGE value="Ters Üçgen" />
-    <MESSAGE value="Asal Sayılar" />
-    <MESSAGE value="Fibonacci" />
-    <MESSAGE value="Palindrom" />
-    <MESSAGE value="Hesap" />
-    <MESSAGE value="Us Recursive" />
-    <MESSAGE value="Asal sayılar Recursive" />
-    <MESSAGE value="Desen Metot" />
-    <MESSAGE value="OOP - OBS" />
-    <MESSAGE value="OOP - Boks" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP - Boks" />
+    <MESSAGE value="Burclar" />
+    <MESSAGE value="Kombinasyon" />
+    <MESSAGE value="Usluler" />
+    <MESSAGE value="Basamak" />
+    <MESSAGE value="Max" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max" />
   </component>
 </project>

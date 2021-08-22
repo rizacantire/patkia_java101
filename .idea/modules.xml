@@ -3,23 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" filepath="$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/1-OBS/1-OBS.iml" filepath="$PROJECT_DIR$/OOP/1-OBS/1-OBS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10-TersUcgen/10-TersUcgen.iml" filepath="$PROJECT_DIR$/10-TersUcgen/10-TersUcgen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11-AsalSayilar/11-AsalSayilar.iml" filepath="$PROJECT_DIR$/11-AsalSayilar/11-AsalSayilar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/12-Fibonacci/12-Fibonacci.iml" filepath="$PROJECT_DIR$/12-Fibonacci/12-Fibonacci.iml" />
-      <module fileurl="file://$PROJECT_DIR$/13-Palindrom/13-Palindrom.iml" filepath="$PROJECT_DIR$/13-Palindrom/13-Palindrom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/14-GelismisHesap/14-GelismisHesap.iml" filepath="$PROJECT_DIR$/14-GelismisHesap/14-GelismisHesap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/15-RecursiveUs/15-RecursiveUs.iml" filepath="$PROJECT_DIR$/15-RecursiveUs/15-RecursiveUs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/16-RecursiveAsal/16-RecursiveAsal.iml" filepath="$PROJECT_DIR$/16-RecursiveAsal/16-RecursiveAsal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/17-RecursiveDesen/17-RecursiveDesen.iml" filepath="$PROJECT_DIR$/17-RecursiveDesen/17-RecursiveDesen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/2-Boks/2-Boks.iml" filepath="$PROJECT_DIR$/OOP/2-Boks/2-Boks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diziler/2-MaxMin/2-MaxMin.iml" filepath="$PROJECT_DIR$/Diziler/2-MaxMin/2-MaxMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Uslusayi/2-Uslusayi.iml" filepath="$PROJECT_DIR$/2-Uslusayi/2-Uslusayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-Basamak/3-Basamak.iml" filepath="$PROJECT_DIR$/3-Basamak/3-Basamak.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/3-Maas/3-Maas.iml" filepath="$PROJECT_DIR$/OOP/3-Maas/3-Maas.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml" filepath="$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml" />
-      <module fileurl="file://$PROJECT_DIR$/7-EbobEkok/7-EbobEkok.iml" filepath="$PROJECT_DIR$/7-EbobEkok/7-EbobEkok.iml" />
-      <module fileurl="file://$PROJECT_DIR$/8-MinMax/8-MinMax.iml" filepath="$PROJECT_DIR$/8-MinMax/8-MinMax.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9-MukemmelSayi/9-MukemmelSayi.iml" filepath="$PROJECT_DIR$/9-MukemmelSayi/9-MukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/ArtikYil/ArtikYil.iml" />
       <module fileurl="file://$PROJECT_DIR$/BiletHesap/BiletHesap.iml" filepath="$PROJECT_DIR$/BiletHesap/BiletHesap.iml" />
       <module fileurl="file://$PROJECT_DIR$/BurcBulma/BurcBulma.iml" filepath="$PROJECT_DIR$/BurcBulma/BurcBulma.iml" />
@@ -31,7 +18,6 @@
       <module fileurl="file://$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml" filepath="$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayiKatlari/SayiKatlari.iml" filepath="$PROJECT_DIR$/SayiKatlari/SayiKatlari.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" filepath="$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Siralama/Siralama.iml" filepath="$PROJECT_DIR$/Siralama/Siralama.iml" />
