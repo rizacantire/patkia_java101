@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Ters Üçgen">
-      <change afterPath="$PROJECT_DIR$/10-TersUcgen/10-TersUcgen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-AsalSayilar/11-AsalSayilar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-AsalSayilar/src/AsalSayilar.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Asal Sayılar">
+      <change afterPath="$PROJECT_DIR$/12-Fibonacci/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-AsalSayilar/src/AsalSayilar.java" beforeDir="false" afterPath="$PROJECT_DIR$/11-AsalSayilar/src/AsalSayilar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AsalSayilar">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="AsalSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsalSayilar" />
       <module name="11-AsalSayilar" />
@@ -67,16 +68,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EbobEkok" />
-      <module name="7-EbobEkok" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinMax" />
-      <module name="8-MinMax" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="12-Fibonacci" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.AsalSayilar" />
         <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.Mukemmel" />
-        <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.EbobEkok" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629622152250</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Asal Sayılar">
+      <created>1629622400133</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1629622400133</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +360,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2. proje" />
     <MESSAGE value="Kdv Hesaplama Ekelndi" />
     <MESSAGE value="Not hesaplama uygulaması" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
@@ -377,6 +384,7 @@
     <MESSAGE value="Max Min" />
     <MESSAGE value="Mukemmel Sayı" />
     <MESSAGE value="Ters Üçgen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ters Üçgen" />
+    <MESSAGE value="Asal Sayılar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asal Sayılar" />
   </component>
 </project>

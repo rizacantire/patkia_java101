@@ -1,6 +1,6 @@
 public class AsalSayilar {
     public static void main(String[] args) {
-
+        System.out.println();
         int sayac = 0;
         for(int sayi=2;sayi<=100;sayi++)
         {
