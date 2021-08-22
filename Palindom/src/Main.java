@@ -30,9 +30,9 @@ public class Main {
         String kelime = scanner.next();
 
         if(isPalindrome(kelime) == true){
-            System.out.println("Kelime Palindom");
+            System.out.println("Kelime Palindoromik");
         }else {
-            System.out.println("Palindom değil.");
+            System.out.println("Palindoromik değil.");
         }
     }
 }
