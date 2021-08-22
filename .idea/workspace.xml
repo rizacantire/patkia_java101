@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Asal sayılar Recursive">
-      <change afterPath="$PROJECT_DIR$/17-RecursiveDesen/17-RecursiveDesen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-RecursiveDesen/src/RecursiveDesen.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Desen Metot">
+      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/1-OBS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,7 +43,6 @@
     <option name="flattenModules" value="true" />
     <option name="flattenPackages" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
-    <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -57,11 +60,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101\OOP" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.RecursiveDesen">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
-      <module name="12-Fibonacci" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="1-OBS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.RecursiveDesen" />
         <item itemvalue="Application.RecursiveAsal" />
         <item itemvalue="Application.RecursiveUs" />
         <item itemvalue="Application.Palindrom" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629631386893</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Desen Metot">
+      <created>1629633072104</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1629633072104</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Taksimetre Eklendi" />
     <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
     <MESSAGE value="Vücut Kitle İndeksi" />
     <MESSAGE value="Manav Programı" />
@@ -425,6 +437,7 @@
     <MESSAGE value="Hesap" />
     <MESSAGE value="Us Recursive" />
     <MESSAGE value="Asal sayılar Recursive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Asal sayılar Recursive" />
+    <MESSAGE value="Desen Metot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desen Metot" />
   </component>
 </project>

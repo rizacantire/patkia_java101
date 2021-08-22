@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" filepath="$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/1-OBS/1-OBS.iml" filepath="$PROJECT_DIR$/OOP/1-OBS/1-OBS.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-TersUcgen/10-TersUcgen.iml" filepath="$PROJECT_DIR$/10-TersUcgen/10-TersUcgen.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-AsalSayilar/11-AsalSayilar.iml" filepath="$PROJECT_DIR$/11-AsalSayilar/11-AsalSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-Fibonacci/12-Fibonacci.iml" filepath="$PROJECT_DIR$/12-Fibonacci/12-Fibonacci.iml" />
@@ -28,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml" filepath="$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayiKatlari/SayiKatlari.iml" filepath="$PROJECT_DIR$/SayiKatlari/SayiKatlari.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" filepath="$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Siralama/Siralama.iml" filepath="$PROJECT_DIR$/Siralama/Siralama.iml" />
