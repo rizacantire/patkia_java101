@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Desen Metot">
-      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/1-OBS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/1-OBS/src/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="OOP - OBS">
+      <change afterPath="$PROJECT_DIR$/OOP/2-Boks/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/2-Boks/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/2-Boks/src/Ring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -64,17 +61,17 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101\OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="1-OBS" />
+      <module name="2-Boks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrom" />
-      <module name="13-Palindrom" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="1-OBS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RecursiveDesen" />
         <item itemvalue="Application.RecursiveAsal" />
         <item itemvalue="Application.RecursiveUs" />
-        <item itemvalue="Application.Palindrom" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629633072104</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="OOP - OBS">
+      <created>1629634498964</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1629634498964</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +417,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
     <MESSAGE value="Vücut Kitle İndeksi" />
     <MESSAGE value="Manav Programı" />
     <MESSAGE value="Hesap Makinesi" />
@@ -438,6 +441,7 @@
     <MESSAGE value="Us Recursive" />
     <MESSAGE value="Asal sayılar Recursive" />
     <MESSAGE value="Desen Metot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desen Metot" />
+    <MESSAGE value="OOP - OBS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP - OBS" />
   </component>
 </project>
