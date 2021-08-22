@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Mukemmel Sayı">
-      <change afterPath="$PROJECT_DIR$/10-TersUcgen/src/TersUcgen.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Ters Üçgen">
+      <change afterPath="$PROJECT_DIR$/10-TersUcgen/10-TersUcgen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-AsalSayilar/11-AsalSayilar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-AsalSayilar/src/AsalSayilar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,14 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TersUcgen">
+  <component name="RunManager" selected="Application.AsalSayilar">
+    <configuration name="AsalSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsalSayilar" />
+      <module name="11-AsalSayilar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EbobEkok" />
       <module name="7-EbobEkok" />
@@ -85,20 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsalSayilar" />
         <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.Mukemmel" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.EbobEkok" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629622047380</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Ters Üçgen">
+      <created>1629622152250</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1629622152250</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,6 +376,7 @@
     <MESSAGE value="Ebob Ekok" />
     <MESSAGE value="Max Min" />
     <MESSAGE value="Mukemmel Sayı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mukemmel Sayı" />
+    <MESSAGE value="Ters Üçgen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ters Üçgen" />
   </component>
 </project>
