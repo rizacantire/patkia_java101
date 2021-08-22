@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Us Recursive">
-      <change afterPath="$PROJECT_DIR$/16-RecursiveAsal/16-RecursiveAsal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-RecursiveAsal/src/RecursiveAsal.java" afterDir="false" />
+    <list default="true" id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="Asal sayılar Recursive">
+      <change afterPath="$PROJECT_DIR$/17-RecursiveDesen/17-RecursiveDesen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-RecursiveDesen/src/RecursiveDesen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,7 +58,7 @@
       <recent name="C:\Users\can_tire\Desktop\proje\patkia_java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecursiveAsal">
+  <component name="RunManager" selected="Application.RecursiveDesen">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="12-Fibonacci" />
@@ -80,6 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecursiveDesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveDesen" />
+      <module name="17-RecursiveDesen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RecursiveUs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecursiveUs" />
       <module name="15-RecursiveUs" />
@@ -87,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveDesen" />
         <item itemvalue="Application.RecursiveAsal" />
         <item itemvalue="Application.RecursiveUs" />
         <item itemvalue="Application.Palindrom" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629627891490</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Asal sayılar Recursive">
+      <created>1629631386893</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1629631386893</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +400,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Üçgen Alan hesaplama eklendi" />
     <MESSAGE value="Taksimetre Eklendi" />
     <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
     <MESSAGE value="Vücut Kitle İndeksi" />
@@ -418,6 +424,7 @@
     <MESSAGE value="Palindrom" />
     <MESSAGE value="Hesap" />
     <MESSAGE value="Us Recursive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Us Recursive" />
+    <MESSAGE value="Asal sayılar Recursive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Asal sayılar Recursive" />
   </component>
 </project>
