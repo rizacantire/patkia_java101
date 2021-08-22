@@ -1,0 +1,359 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f8ad256c-e1e1-45d1-be15-52b3f9133ed9\" name=\"Changes\" comment=\"Basamak\">\r\n      <change afterPath=\"$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/4-Harmonik/src/Harmonik.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1wmQbCTePwHElBj7Xdg9OItWpbR\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showVisibilityIcons\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"jdk.selected.JAVA_MODULE\" value=\"16\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Harmonik\">\r\n    <configuration name=\"Basamak\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Basamak\" />\r\n      <module name=\"3-Basamak\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Harmonik\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Harmonik\" />\r\n      <module name=\"4-Harmonik\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"IkiKuvvet\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"IkiKuvvet\" />\r\n      <module name=\"IkiKuvvet\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"KombinasyonHesap\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"KombinasyonHesap\" />\r\n      <module name=\"1-Kombinasyon\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"UsluSayi\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"UsluSayi\" />\r\n      <module name=\"2-Uslusayi\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Harmonik\" />\r\n        <item itemvalue=\"Application.Basamak\" />\r\n        <item itemvalue=\"Application.UsluSayi\" />\r\n        <item itemvalue=\"Application.KombinasyonHesap\" />\r\n        <item itemvalue=\"Application.IkiKuvvet\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5db15132-2459-488c-8faf-c2ea69c21aee\" name=\"Changes\" comment=\"\" />\r\n      <created>1629061353149</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1629061353149</updated>\r\n      <workItem from=\"1629061354568\" duration=\"9369000\" />\r\n      <workItem from=\"1629131217877\" duration=\"4205000\" />\r\n      <workItem from=\"1629580818606\" duration=\"382000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"2. proje\">\r\n      <created>1629061715504</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629061715504</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"2. proje\">\r\n      <created>1629061730801</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629061730801</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Not hesaplama uygulaması\">\r\n      <created>1629062333936</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629062333936</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Not hesaplama uygulaması\">\r\n      <created>1629063115093</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063115093</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Not hesaplama uygulaması\">\r\n      <created>1629063125593</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063125593</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Not hesaplama uygulaması\">\r\n      <created>1629063188934</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063188935</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Not hesaplama uygulaması\">\r\n      <created>1629063211732</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063211732</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <created>1629063260730</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063260730</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Kdv Hesaplama Eklendi\">\r\n      <created>1629063300066</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063300066</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Kdv Hesaplama Eklendi\">\r\n      <created>1629063320695</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063320695</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Üçgen Alan hesaplama eklendi\">\r\n      <created>1629063958361</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629063958361</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Taksimetre Eklendi\">\r\n      <created>1629064460847</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629064460847</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Taksimetre Eklendi\">\r\n      <created>1629064470675</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629064470675</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Daire dilmi ve alanı bulma eklendi\">\r\n      <created>1629064864632</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629064864632</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Vücut Kitle İndeksi\">\r\n      <created>1629065248265</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629065248265</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Manav Programı\">\r\n      <created>1629065811056</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629065811056</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Hesap Makinesi\">\r\n      <created>1629068974199</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629068974199</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Giriş Ekranı\">\r\n      <created>1629069722782</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629069722782</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Sınıfı Geçme Eklendi\">\r\n      <created>1629130213529</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629130213529</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Etkinlik Öner\">\r\n      <created>1629130785034</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629130785034</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Sıralama eklendi\">\r\n      <created>1629131228365</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629131228365</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Burclar\">\r\n      <created>1629131567528</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629131567528</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Kombinasyon\">\r\n      <created>1629581957442</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629581957442</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Usluler\">\r\n      <created>1629582384199</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629582384199</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Basamak\">\r\n      <created>1629583279082</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1629583279082</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"26\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"2. proje\" />\r\n    <MESSAGE value=\"Kdv Hesaplama Ekelndi\" />\r\n    <MESSAGE value=\"Not hesaplama uygulaması\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/master'\" />\r\n    <MESSAGE value=\"Kdv Hesaplama Eklendi\" />\r\n    <MESSAGE value=\"Üçgen Alan hesaplama eklendi\" />\r\n    <MESSAGE value=\"Taksimetre Eklendi\" />\r\n    <MESSAGE value=\"Daire dilmi ve alanı bulma eklendi\" />\r\n    <MESSAGE value=\"Vücut Kitle İndeksi\" />\r\n    <MESSAGE value=\"Manav Programı\" />\r\n    <MESSAGE value=\"Hesap Makinesi\" />\r\n    <MESSAGE value=\"Giriş Ekranı\" />\r\n    <MESSAGE value=\"Sınıfı Geçme Eklendi\" />\r\n    <MESSAGE value=\"Etkinlik Öner\" />\r\n    <MESSAGE value=\"Sıralama\" />\r\n    <MESSAGE value=\"Sıralama eklendi\" />\r\n    <MESSAGE value=\"Burclar\" />\r\n    <MESSAGE value=\"Kombinasyon\" />\r\n    <MESSAGE value=\"Usluler\" />\r\n    <MESSAGE value=\"Basamak\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Basamak\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a0166740bef72deffc9f95bf0a15bd6a9384cf40)
++++ b/.idea/workspace.xml	(date 1629658186478)
+@@ -1,9 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="f8ad256c-e1e1-45d1-be15-52b3f9133ed9" name="Changes" comment="Basamak">
+-      <change afterPath="$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/4-Harmonik/src/Harmonik.java" afterDir="false" />
++    <list default="true" id="efd35300-a8d3-45dc-819a-a96de56f7d88" name="Changes" comment="Atm">
+       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+@@ -21,274 +19,39 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="GitSEFilterConfiguration">
+-    <file-type-list>
+-      <filtered-out-file-type name="LOCAL_BRANCH" />
+-      <filtered-out-file-type name="REMOTE_BRANCH" />
+-      <filtered-out-file-type name="TAG" />
+-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+-    </file-type-list>
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+-  <component name="ProjectId" id="1wmQbCTePwHElBj7Xdg9OItWpbR" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-    <option name="showVisibilityIcons" value="true" />
+-  </component>
+   <component name="PropertiesComponent">
+-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="jdk.selected.JAVA_MODULE" value="16" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="project.structure.last.edited" value="Modules" />
+-    <property name="project.structure.proportion" value="0.15" />
+-    <property name="project.structure.side.proportion" value="0.2" />
+   </component>
+-  <component name="RunManager" selected="Application.Harmonik">
+-    <configuration name="Basamak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Basamak" />
+-      <module name="3-Basamak" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="Harmonik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Harmonik" />
+-      <module name="4-Harmonik" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="IkiKuvvet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="IkiKuvvet" />
+-      <module name="IkiKuvvet" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="KombinasyonHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="KombinasyonHesap" />
+-      <module name="1-Kombinasyon" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="UsluSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="UsluSayi" />
+-      <module name="2-Uslusayi" />
++  <component name="RunManager">
++    <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Atm" />
++      <module name="6-Atm" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.Harmonik" />
+-        <item itemvalue="Application.Basamak" />
+-        <item itemvalue="Application.UsluSayi" />
+-        <item itemvalue="Application.KombinasyonHesap" />
+-        <item itemvalue="Application.IkiKuvvet" />
++        <item itemvalue="Application.Atm" />
+       </list>
+     </recent_temporary>
+   </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="5db15132-2459-488c-8faf-c2ea69c21aee" name="Changes" comment="" />
+-      <created>1629061353149</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1629061353149</updated>
+-      <workItem from="1629061354568" duration="9369000" />
+-      <workItem from="1629131217877" duration="4205000" />
+-      <workItem from="1629580818606" duration="382000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="2. proje">
+-      <created>1629061715504</created>
++    <task id="LOCAL-00001" summary="Atm">
++      <created>1629584916036</created>
+       <option name="number" value="00001" />
+       <option name="presentableId" value="LOCAL-00001" />
+       <option name="project" value="LOCAL" />
+-      <updated>1629061715504</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="2. proje">
+-      <created>1629061730801</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629061730801</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Not hesaplama uygulaması">
+-      <created>1629062333936</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629062333936</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Not hesaplama uygulaması">
+-      <created>1629063115093</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063115093</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Not hesaplama uygulaması">
+-      <created>1629063125593</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063125593</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="Not hesaplama uygulaması">
+-      <created>1629063188934</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063188935</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="Not hesaplama uygulaması">
+-      <created>1629063211732</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063211732</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+-      <created>1629063260730</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063260730</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="Kdv Hesaplama Eklendi">
+-      <created>1629063300066</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063300066</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="Kdv Hesaplama Eklendi">
+-      <created>1629063320695</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063320695</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="Üçgen Alan hesaplama eklendi">
+-      <created>1629063958361</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629063958361</updated>
+-    </task>
+-    <task id="LOCAL-00012" summary="Taksimetre Eklendi">
+-      <created>1629064460847</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629064460847</updated>
+-    </task>
+-    <task id="LOCAL-00013" summary="Taksimetre Eklendi">
+-      <created>1629064470675</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629064470675</updated>
+-    </task>
+-    <task id="LOCAL-00014" summary="Daire dilmi ve alanı bulma eklendi">
+-      <created>1629064864632</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629064864632</updated>
+-    </task>
+-    <task id="LOCAL-00015" summary="Vücut Kitle İndeksi">
+-      <created>1629065248265</created>
+-      <option name="number" value="00015" />
+-      <option name="presentableId" value="LOCAL-00015" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629065248265</updated>
+-    </task>
+-    <task id="LOCAL-00016" summary="Manav Programı">
+-      <created>1629065811056</created>
+-      <option name="number" value="00016" />
+-      <option name="presentableId" value="LOCAL-00016" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629065811056</updated>
+-    </task>
+-    <task id="LOCAL-00017" summary="Hesap Makinesi">
+-      <created>1629068974199</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629068974199</updated>
+-    </task>
+-    <task id="LOCAL-00018" summary="Giriş Ekranı">
+-      <created>1629069722782</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629069722782</updated>
++      <updated>1629584916036</updated>
+     </task>
+-    <task id="LOCAL-00019" summary="Sınıfı Geçme Eklendi">
+-      <created>1629130213529</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629130213529</updated>
+-    </task>
+-    <task id="LOCAL-00020" summary="Etkinlik Öner">
+-      <created>1629130785034</created>
+-      <option name="number" value="00020" />
+-      <option name="presentableId" value="LOCAL-00020" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629130785034</updated>
+-    </task>
+-    <task id="LOCAL-00021" summary="Sıralama eklendi">
+-      <created>1629131228365</created>
+-      <option name="number" value="00021" />
+-      <option name="presentableId" value="LOCAL-00021" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629131228365</updated>
+-    </task>
+-    <task id="LOCAL-00022" summary="Burclar">
+-      <created>1629131567528</created>
+-      <option name="number" value="00022" />
+-      <option name="presentableId" value="LOCAL-00022" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629131567528</updated>
+-    </task>
+-    <task id="LOCAL-00023" summary="Kombinasyon">
+-      <created>1629581957442</created>
+-      <option name="number" value="00023" />
+-      <option name="presentableId" value="LOCAL-00023" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629581957442</updated>
+-    </task>
+-    <task id="LOCAL-00024" summary="Usluler">
+-      <created>1629582384199</created>
+-      <option name="number" value="00024" />
+-      <option name="presentableId" value="LOCAL-00024" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629582384199</updated>
+-    </task>
+-    <task id="LOCAL-00025" summary="Basamak">
+-      <created>1629583279082</created>
+-      <option name="number" value="00025" />
+-      <option name="presentableId" value="LOCAL-00025" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629583279082</updated>
+-    </task>
+-    <option name="localTasksCounter" value="26" />
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
+@@ -302,26 +65,7 @@
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <MESSAGE value="2. proje" />
+-    <MESSAGE value="Kdv Hesaplama Ekelndi" />
+-    <MESSAGE value="Not hesaplama uygulaması" />
+-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+-    <MESSAGE value="Kdv Hesaplama Eklendi" />
+-    <MESSAGE value="Üçgen Alan hesaplama eklendi" />
+-    <MESSAGE value="Taksimetre Eklendi" />
+-    <MESSAGE value="Daire dilmi ve alanı bulma eklendi" />
+-    <MESSAGE value="Vücut Kitle İndeksi" />
+-    <MESSAGE value="Manav Programı" />
+-    <MESSAGE value="Hesap Makinesi" />
+-    <MESSAGE value="Giriş Ekranı" />
+-    <MESSAGE value="Sınıfı Geçme Eklendi" />
+-    <MESSAGE value="Etkinlik Öner" />
+-    <MESSAGE value="Sıralama" />
+-    <MESSAGE value="Sıralama eklendi" />
+-    <MESSAGE value="Burclar" />
+-    <MESSAGE value="Kombinasyon" />
+-    <MESSAGE value="Usluler" />
+-    <MESSAGE value="Basamak" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Basamak" />
++    <MESSAGE value="Atm" />
++    <option name="LAST_COMMIT_MESSAGE" value="Atm" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml\" filepath=\"$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/2-Uslusayi/2-Uslusayi.iml\" filepath=\"$PROJECT_DIR$/2-Uslusayi/2-Uslusayi.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/3-Basamak/3-Basamak.iml\" filepath=\"$PROJECT_DIR$/3-Basamak/3-Basamak.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml\" filepath=\"$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/ArtikYil/ArtikYil.iml\" filepath=\"$PROJECT_DIR$/ArtikYil/ArtikYil.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/BiletHesap/BiletHesap.iml\" filepath=\"$PROJECT_DIR$/BiletHesap/BiletHesap.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/BurcBulma/BurcBulma.iml\" filepath=\"$PROJECT_DIR$/BurcBulma/BurcBulma.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/CiftDortKatlariToplami/CiftDortKatlariToplami.iml\" filepath=\"$PROJECT_DIR$/CiftDortKatlariToplami/CiftDortKatlariToplami.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/Dairenin Alanı/Dairenin Alanı.iml\" filepath=\"$PROJECT_DIR$/Dairenin Alanı/Dairenin Alanı.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/EtkinlikOner/EtkinlikOner.iml\" filepath=\"$PROJECT_DIR$/EtkinlikOner/EtkinlikOner.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/GirisEkrani/GirisEkrani.iml\" filepath=\"$PROJECT_DIR$/GirisEkrani/GirisEkrani.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml\" filepath=\"$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml\" filepath=\"$PROJECT_DIR$/IkiKuvvet/IkiKuvvet.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml\" filepath=\"$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml\" filepath=\"$PROJECT_DIR$/ManavKasa/ManavKasa.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/SayiKatlari/SayiKatlari.iml\" filepath=\"$PROJECT_DIR$/SayiKatlari/SayiKatlari.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml\" filepath=\"$PROJECT_DIR$/SinifiGecme/SinifiGecme.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/Siralama/Siralama.iml\" filepath=\"$PROJECT_DIR$/Siralama/Siralama.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TaksimetreProgramı/TaksimetreProgramı.iml\" filepath=\"$PROJECT_DIR$/TaksimetreProgramı/TaksimetreProgramı.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TekCift/TekCift.iml\" filepath=\"$PROJECT_DIR$/TekCift/TekCift.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml\" filepath=\"$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/VucutKitle/VucutKitle.iml\" filepath=\"$PROJECT_DIR$/VucutKitle/VucutKitle.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/Zodyak/Zodyak.iml\" filepath=\"$PROJECT_DIR$/Zodyak/Zodyak.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/notHesaplama/notHesaplama.iml\" filepath=\"$PROJECT_DIR$/notHesaplama/notHesaplama.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/patkia_java101.iml\" filepath=\"$PROJECT_DIR$/.idea/patkia_java101.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	(revision a0166740bef72deffc9f95bf0a15bd6a9384cf40)
++++ b/.idea/modules.xml	(date 1629584433939)
+@@ -2,10 +2,11 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" filepath="$PROJECT_DIR$/1-Kombinasyon/1-Kombinasyon.iml" />
+       <module fileurl="file://$PROJECT_DIR$/2-Uslusayi/2-Uslusayi.iml" filepath="$PROJECT_DIR$/2-Uslusayi/2-Uslusayi.iml" />
+       <module fileurl="file://$PROJECT_DIR$/3-Basamak/3-Basamak.iml" filepath="$PROJECT_DIR$/3-Basamak/3-Basamak.iml" />
+       <module fileurl="file://$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml" filepath="$PROJECT_DIR$/4-Harmonik/4-Harmonik.iml" />
++      <module fileurl="file://$PROJECT_DIR$/5-YildizYap/5-YildizYap.iml" filepath="$PROJECT_DIR$/5-YildizYap/5-YildizYap.iml" />
++      <module fileurl="file://$PROJECT_DIR$/6-Atm/6-Atm.iml" filepath="$PROJECT_DIR$/6-Atm/6-Atm.iml" />
+       <module fileurl="file://$PROJECT_DIR$/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/ArtikYil/ArtikYil.iml" />
+       <module fileurl="file://$PROJECT_DIR$/BiletHesap/BiletHesap.iml" filepath="$PROJECT_DIR$/BiletHesap/BiletHesap.iml" />
+       <module fileurl="file://$PROJECT_DIR$/BurcBulma/BurcBulma.iml" filepath="$PROJECT_DIR$/BurcBulma/BurcBulma.iml" />
